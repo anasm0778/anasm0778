@@ -276,10 +276,3 @@ Continuous Learning → Long-Term Growth
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:7F00FF,100:FF4ECD&height=140&section=footer" />
 
 </div>
-```
-
-Bas ek cheez: **LinkedIn URL** abhi placeholder hai. Agar tumhara LinkedIn hai toh is line mein actual URL daal dena:
-
-```markdown
-<a href="https://www.linkedin.com" target="_blank">
-```
