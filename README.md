@@ -1,35 +1,167 @@
-<h1 align="center">Hi 👋, I'm Mohd Anas</h1>
-<h3 align="center">Full Stack Developer passionate about building scalable, high-performance web applications and digital experiences.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasm0778&label=Profile%20views&color=0e75b6&style=flat" alt="anasm0778" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,50:8A2BE2,100:FF4ECD&height=180&section=header&text=Mohd%20Anas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasm0778" alt="anasm0778" /></a> </p>
+# Hi 👋, I'm Mohd Anas
 
-- 🔭 I’m currently working on **GPS CRM, AI-powered web applications, and modern full-stack projects.**
+### Full Stack Developer | SaaS Builder | AI Integration Enthusiast
 
-- 🌱 I’m currently learning **Advanced System Design, Cloud Deployment, Docker, Kubernetes, and AI Integration.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;AI-Powered+SaaS+%26+Digital+Products;Clean+Architecture+%7C+Cloud+%7C+DevOps;Modern+Frontend+%7C+Powerful+Backend" alt="Typing SVG" />
 
-- 👯 I’m looking to collaborate on **Open Source, SaaS, AI, and Full Stack Development projects.**
+<br />
 
-- 🤝 I’m looking for help with **Cloud Architecture, System Design, and Open Source contributions.**
+<img src="https://komarev.com/ghpvc/?username=anasm0778&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
-- 👨‍💻 All of my projects are available at [https://www.mohdanas.co.in](https://www.mohdanas.co.in)
+</div>
 
-- 💬 Ask me about **Advanced System Design, Cloud Deployment, Docker, Kubernetes, and AI Integration.**
+---
 
-- 📫 How to reach me **mohammadanas11110@gmail.com**
+## 🚀 About Me
 
-- ⚡ Fun fact **I believe every great application starts with a clean architecture.**
+I am a **Full Stack Developer** passionate about building scalable, high-performance web applications, SaaS platforms, and AI-powered digital products.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+I enjoy working with modern frontend technologies, powerful backend systems, clean architecture, cloud deployment, automation, and real-world business applications.
+
+- 🔭 I’m currently working on **GPS CRM, AI-powered web applications, and modern full-stack projects**
+- 🌱 I’m currently learning **Advanced System Design, Cloud Deployment, Docker, Kubernetes, and AI Integration**
+- 👯 I’m looking to collaborate on **Open Source, SaaS, AI, and Full Stack Development projects**
+- 🤝 I’m looking for help with **Cloud Architecture, System Design, and Open Source contributions**
+- 👨‍💻 All of my projects are available at **[mohdanas.co.in](https://www.mohdanas.co.in)**
+- 💬 Ask me about **Full Stack Development, System Design, Docker, Cloud, and AI Integration**
+- 📫 Reach me at **mohammadanas11110@gmail.com**
+- ⚡ Fun fact: **Every great application starts with clean architecture**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
+
+<a href="https://www.mohdanas.co.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="mailto:mohammadanas11110@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/anasm0778" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Languages, Frameworks & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,c,dart" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### 🎨 Frontend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasm0778&show_icons=true&locale=en&layout=compact" alt="anasm0778" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,redux,tailwind,bootstrap" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasm0778&show_icons=true&locale=en" alt="anasm0778" /></p>
+### ⚙️ Backend Development
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasm0778&" alt="anasm0778" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,dotnet" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,redis" />
+</p>
+
+### ☁️ Cloud, DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,nginx,linux,git,github,heroku,vercel" />
+</p>
+
+### 🤖 AI, Data & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,flutter,android" />
+</p>
+
+### 🧰 Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,npm,powershell,bash" />
+</p>
+
+---
+
+## 💼 What I Build
+
+<div align="center">
+
+| Area | Description |
+|---|---|
+| 🌐 Web Applications | Modern, responsive, and scalable web apps |
+| ⚙️ Backend Systems | Secure APIs, clean architecture, and database-driven systems |
+| ☁️ Cloud Deployment | Docker-based deployment, cloud hosting, and production setup |
+| 🤖 AI Integration | AI-powered features, automation, and smart workflows |
+| 📊 Business Software | CRM, dashboards, admin panels, and SaaS products |
+| 🎨 UI/UX | Clean, modern, and user-friendly interfaces |
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anasm0778&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anasm0778&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasm0778&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasm0778&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anasm0778&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🔥 Current Focus
+
+```txt
+Full Stack Development   → Building production-ready web applications
+Clean Architecture       → Writing scalable and maintainable code
+Cloud & DevOps           → Docker, deployment, and infrastructure
+AI Integration           → Adding intelligent features to applications
+System Design            → Learning to build large-scale systems
+Open Source              → Collaborating and contributing to real projects
