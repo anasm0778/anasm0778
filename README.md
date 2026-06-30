@@ -1,4 +1,3 @@
-
 <!-- Premium GitHub Profile README for Mohd Anas -->
 
 <div align="center">
@@ -27,7 +26,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 Hi, I’m **Mohd Anas**, a passionate **Full Stack Developer** focused on building scalable, high-performance, and production-ready digital products.
 
@@ -38,20 +37,20 @@ Developer Type   : Full Stack Developer
 Focus Area       : SaaS, AI Integration, Web Applications, Cloud & DevOps
 Mindset          : Clean Architecture, Performance, Scalability
 Goal             : Build real-world products that create business value
-````
+```
 
-* 🔭 Currently working on **GPS CRM, AI-powered web applications, and modern full-stack projects**
-* 🌱 Currently learning **Advanced System Design, Cloud Deployment, Docker, Kubernetes, and AI Integration**
-* 👯 Open to collaborate on **Open Source, SaaS, AI, and Full Stack Development projects**
-* 🤝 Looking to improve in **Cloud Architecture, System Design, and Open Source contributions**
-* 👨‍💻 Portfolio: **[mohdanas.co.in](https://www.mohdanas.co.in)**
-* 💬 Ask me about **Full Stack Development, Docker, Cloud, APIs, AI Integration, and System Design**
-* 📫 Reach me at **[mohammadanas11110@gmail.com](mailto:mohammadanas11110@gmail.com)**
-* ⚡ Fun fact: **Every great application starts with clean architecture**
+- Currently working on **GPS CRM, AI-powered web applications, and modern full-stack projects**
+- Currently learning **Advanced System Design, Cloud Deployment, Docker, Kubernetes, and AI Integration**
+- Open to collaborate on **Open Source, SaaS, AI, and Full Stack Development projects**
+- Looking to improve in **Cloud Architecture, System Design, and Open Source contributions**
+- Portfolio: **[mohdanas.co.in](https://www.mohdanas.co.in)**
+- Ask me about **Full Stack Development, Docker, Cloud, APIs, AI Integration, and System Design**
+- Reach me at **[mohammadanas11110@gmail.com](mailto:mohammadanas11110@gmail.com)**
+- Belief: **Every great application starts with clean architecture**
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -75,52 +74,52 @@ Goal             : Build real-world products that create business value
 
 ---
 
-## 🧠 What I Do
+## Core Expertise
 
 <div align="center">
 
-| 🚀 Area                  | 💡 What I Build                                                           |
-| ------------------------ | ------------------------------------------------------------------------- |
-| **Frontend Development** | Modern, responsive, fast, and user-friendly interfaces                    |
-| **Backend Development**  | Secure APIs, authentication, business logic, and clean architecture       |
-| **SaaS Applications**    | Dashboards, admin panels, subscription-based systems, and business tools  |
-| **AI Integration**       | AI chatbots, automation, smart workflows, and AI-powered features         |
-| **Cloud & DevOps**       | Docker-based deployment, server setup, CI/CD, and production environments |
-| **Database Design**      | Relational and NoSQL database structure, optimization, and integrations   |
+| Area | What I Build |
+|---|---|
+| **Frontend Development** | Modern, responsive, fast, and user-friendly interfaces |
+| **Backend Development** | Secure APIs, authentication, business logic, and clean architecture |
+| **SaaS Applications** | Dashboards, admin panels, subscription-based systems, and business tools |
+| **AI Integration** | AI chatbots, automation, smart workflows, and AI-powered features |
+| **Cloud & DevOps** | Docker-based deployment, server setup, CI/CD, and production environments |
+| **Database Design** | Relational and NoSQL database structure, optimization, and integrations |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,c,dart" />
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,redux,tailwind,bootstrap" />
 
-### ⚙️ Backend Development
+### Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,dotnet" />
 
-### 🗄️ Databases
+### Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,redis" />
 
-### ☁️ Cloud, DevOps & Deployment
+### Cloud, DevOps & Deployment
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,nginx,linux,git,github,heroku,vercel" />
 
-### 🤖 AI, Data & Mobile
+### AI, Data & Mobile
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,pandas,flutter,android" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flutter,android" />
 
-### 🧰 Developer Tools
+### Developer Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,npm,powershell,bash" />
 
@@ -128,7 +127,7 @@ Goal             : Build real-world products that create business value
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 ```txt
 Full Stack Development      ████████████████████  100%
@@ -143,24 +142,24 @@ Kubernetes                  ████████████░░░░░�
 
 ---
 
-## 💼 Featured Work
+## Featured Work
 
 <div align="center">
 
-| Project Type            | Description                                                  | Tech Focus                  |
-| ----------------------- | ------------------------------------------------------------ | --------------------------- |
-| **GPS CRM**             | CRM platform for business operations and customer management | Full Stack, Dashboard, APIs |
-| **AI Web Applications** | AI-powered tools with smart workflows and automation         | AI Integration, Backend, UI |
-| **SaaS Platforms**      | Scalable business applications with admin panels             | SaaS, Cloud, Database       |
-| **Modern Web Apps**     | Responsive and performance-focused websites                  | React, Next.js, Tailwind    |
-| **Backend Systems**     | Secure APIs and business logic architecture                  | .NET, Node.js, Python       |
-| **Cloud Deployments**   | Production-ready deployment and server setup                 | Docker, Linux, Nginx        |
+| Project Type | Description | Tech Focus |
+|---|---|---|
+| **GPS CRM** | CRM platform for business operations and customer management | Full Stack, Dashboard, APIs |
+| **AI Web Applications** | AI-powered tools with smart workflows and automation | AI Integration, Backend, UI |
+| **SaaS Platforms** | Scalable business applications with admin panels | SaaS, Cloud, Database |
+| **Modern Web Apps** | Responsive and performance-focused websites | React, Next.js, Tailwind |
+| **Backend Systems** | Secure APIs and business logic architecture | .NET, Node.js, Python |
+| **Cloud Deployments** | Production-ready deployment and server setup | Docker, Linux, Nginx |
 
 </div>
 
 ---
 
-## 🧩 My Development Workflow
+## Development Workflow
 
 ```mermaid
 graph TD
@@ -178,7 +177,7 @@ graph TD
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -188,13 +187,13 @@ graph TD
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anasm0778&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anasm0778&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=anasm0778&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -208,7 +207,7 @@ graph TD
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -218,24 +217,24 @@ graph TD
 
 ---
 
-## 🎯 Professional Strengths
+## Professional Strengths
 
 <div align="center">
 
-| Strength               | Details                                                          |
-| ---------------------- | ---------------------------------------------------------------- |
-| **Clean Architecture** | I prefer building maintainable and scalable code structures      |
-| **Problem Solving**    | I enjoy breaking complex problems into simple solutions          |
-| **UI/UX Sense**        | I focus on clean, modern, and usable interfaces                  |
-| **Backend Logic**      | I like building secure and reliable backend systems              |
-| **Production Mindset** | I think beyond local development and focus on real deployment    |
-| **Learning Attitude**  | I continuously improve my skills in cloud, AI, and system design |
+| Strength | Details |
+|---|---|
+| **Clean Architecture** | I prefer building maintainable and scalable code structures |
+| **Problem Solving** | I enjoy breaking complex problems into simple solutions |
+| **UI/UX Sense** | I focus on clean, modern, and usable interfaces |
+| **Backend Logic** | I like building secure and reliable backend systems |
+| **Production Mindset** | I think beyond local development and focus on real deployment |
+| **Learning Attitude** | I continuously improve my skills in cloud, AI, and system design |
 
 </div>
 
 ---
 
-## 🔥 Developer Mindset
+## Developer Mindset
 
 ```txt
 Clean Code          → Better Maintainability
@@ -249,25 +248,13 @@ Continuous Learning → Long-Term Growth
 
 ---
 
-## ✨ Quote I Believe In
+## Quote I Believe In
 
 <div align="center">
 
 ### “Every great application starts with clean architecture.”
 
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
-> Note: For a personal snake animation using your own contributions, you need to set up a GitHub Action. Until then, you can remove this section or keep the design clean without it.
 
 ---
 
